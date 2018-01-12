@@ -1627,7 +1627,7 @@ i
 .appliance_brand{
 	width: 75px;
 	height: 28px;
-	background: red;
+	background: #ffffff;
 	display: block;
 	float: left;
 	margin-right: 26px;
@@ -1636,7 +1636,7 @@ i
 .appliance_brand1{
 	width: 75px;
 	height: 28px;
-	background: red;
+	background: #ffffff;
 	display: block;
 	float: left;
 	margin-left:11px;
@@ -1646,7 +1646,7 @@ i
 .appliance_brand2{
 	width: 75px;
 	height: 28px;
-	background: red;
+	background: #ffffff;
 	display: block;
 	float: right ;
 	/* margin-right: 26px; */
